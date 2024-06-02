@@ -1,6 +1,5 @@
-## Hi there 👋
-
-## <!--
+## Hello there 👋
+ <!--
 **YashAnbu1602/YashAnbu1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
